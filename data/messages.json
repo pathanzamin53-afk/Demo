@@ -1,0 +1,23 @@
+[
+  {
+    "id": "919d3edd-9c7f-444b-965f-e85f04cec0c5",
+    "name": "Browser Test",
+    "email": "browser@example.com",
+    "message": "API smoke test",
+    "createdAt": "2026-09-03T17:18:10.622Z"
+  },
+  {
+    "id": "0da29e0d-ee61-46e7-bb8d-9c27cde41358",
+    "name": "Portfolio Visitor",
+    "email": "visitor@example.com",
+    "message": "I would like to discuss a website project.",
+    "createdAt": "2026-09-03T17:18:17.145Z"
+  },
+  {
+    "id": "8c8b6a2f-bb84-48f0-8d71-f07fe850437e",
+    "name": "Notification Test",
+    "email": "notify@example.com",
+    "message": "Checking notification logging.",
+    "createdAt": "2026-09-03T17:20:09.197Z"
+  }
+]
